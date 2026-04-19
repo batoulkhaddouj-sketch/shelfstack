@@ -1,6 +1,7 @@
-.history\
 node_modules/
-.env
+.history/
 dist/
 build/
+.env
 .DS_Store
+*.log
